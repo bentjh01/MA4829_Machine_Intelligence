@@ -1,0 +1,11 @@
+,LHS,RHS,support,confidence,coverage,lift,count
+4,"{exterior_components:Side mirrors,exterior_components:Bumpers}",{exterior_components:Grilles},0.10638297872340426,1.0,0.10638297872340426,2.238095238095238,5
+6,"{exterior_components:Grilles,exterior_components:Side mirrors}",{exterior_components:Headlights},0.14893617021276595,0.875,0.1702127659574468,1.5231481481481481,7
+9,"{exterior_components:Grilles,exterior_components:Wheels}",{exterior_components:Headlights},0.23404255319148937,0.8461538461538461,0.2765957446808511,1.4729344729344729,11
+8,"{exterior_components:Wheels,exterior_components:Side mirrors}",{exterior_components:Headlights},0.2127659574468085,0.8333333333333334,0.2553191489361702,1.4506172839506175,10
+10,"{exterior_components:Grilles,exterior_components:Wheels,exterior_components:Side mirrors}",{exterior_components:Headlights},0.10638297872340426,0.8333333333333334,0.1276595744680851,1.4506172839506175,5
+1,{exterior_components:Side mirrors},{exterior_components:Headlights},0.2553191489361702,0.8,0.3191489361702127,1.3925925925925926,12
+5,"{exterior_components:Headlights,exterior_components:Bumpers}",{exterior_components:Wheels},0.14893617021276595,0.875,0.1702127659574468,1.246212121212121,7
+7,"{exterior_components:Headlights,exterior_components:Side mirrors}",{exterior_components:Wheels},0.2127659574468085,0.8333333333333334,0.2553191489361702,1.186868686868687,10
+3,{exterior_components:Headlights},{exterior_components:Wheels},0.46808510638297873,0.8148148148148148,0.574468085106383,1.1604938271604939,22
+2,{exterior_components:Side mirrors},{exterior_components:Wheels},0.2553191489361702,0.8,0.3191489361702127,1.1393939393939394,12

@@ -1,0 +1,2 @@
+,LHS,RHS,support,confidence,coverage,lift,count
+1,"{interior_components:Dashboard,interior_components:Door handles}",{interior_components:Steering wheel},0.1276595744680851,0.8571428571428571,0.14893617021276595,1.5494505494505495,6

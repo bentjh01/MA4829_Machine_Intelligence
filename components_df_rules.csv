@@ -1,0 +1,126 @@
+,LHS,RHS,support,confidence,coverage,lift,count
+125,"{interior_components:Steering wheel,interior_components:Dashboard,interior_components:Door handles,exterior_components:Wheels,exterior_components:Headlights}",{exterior_components:Side mirrors},0.10638297872340426,1.0,0.10638297872340426,3.1333333333333333,5
+43,"{interior_components:Dashboard,interior_components:Door handles,exterior_components:Headlights}",{exterior_components:Side mirrors},0.10638297872340426,1.0,0.10638297872340426,3.1333333333333333,5
+69,"{interior_components:Centre compartment,interior_components:Dashboard,exterior_components:Headlights}",{exterior_components:Side mirrors},0.1276595744680851,1.0,0.1276595744680851,3.1333333333333333,6
+98,"{interior_components:Steering wheel,interior_components:Dashboard,interior_components:Door handles,exterior_components:Headlights}",{exterior_components:Side mirrors},0.10638297872340426,1.0,0.10638297872340426,3.1333333333333333,5
+107,"{interior_components:Dashboard,interior_components:Door handles,exterior_components:Wheels,exterior_components:Headlights}",{exterior_components:Side mirrors},0.10638297872340426,1.0,0.10638297872340426,3.1333333333333333,5
+104,"{interior_components:Steering wheel,interior_components:Dashboard,interior_components:Door handles,exterior_components:Wheels}",{exterior_components:Side mirrors},0.10638297872340426,0.8333333333333334,0.1276595744680851,2.6111111111111116,5
+47,"{interior_components:Dashboard,interior_components:Door handles,exterior_components:Wheels}",{exterior_components:Side mirrors},0.10638297872340426,0.8333333333333334,0.1276595744680851,2.6111111111111116,5
+40,"{interior_components:Steering wheel,interior_components:Dashboard,interior_components:Door handles}",{exterior_components:Side mirrors},0.10638297872340426,0.8333333333333334,0.1276595744680851,2.6111111111111116,5
+60,"{interior_components:Dashboard,exterior_components:Side mirrors,exterior_components:Bumpers}",{exterior_components:Grilles},0.10638297872340426,1.0,0.10638297872340426,2.238095238095238,5
+18,"{exterior_components:Side mirrors,exterior_components:Bumpers}",{exterior_components:Grilles},0.10638297872340426,1.0,0.10638297872340426,2.238095238095238,5
+103,"{interior_components:Dashboard,interior_components:Door handles,exterior_components:Wheels,exterior_components:Side mirrors}",{interior_components:Steering wheel},0.10638297872340426,1.0,0.10638297872340426,1.8076923076923077,5
+110,"{interior_components:Dashboard,interior_components:Door handles,exterior_components:Wheels,exterior_components:Headlights}",{interior_components:Steering wheel},0.10638297872340426,1.0,0.10638297872340426,1.8076923076923077,5
+39,"{interior_components:Dashboard,interior_components:Door handles,exterior_components:Side mirrors}",{interior_components:Steering wheel},0.10638297872340426,1.0,0.10638297872340426,1.8076923076923077,5
+82,"{interior_components:Dashboard,exterior_components:Wheels,exterior_components:Side mirrors}",{interior_components:Steering wheel},0.19148936170212766,1.0,0.19148936170212766,1.8076923076923077,9
+113,"{interior_components:Dashboard,exterior_components:Grilles,exterior_components:Wheels,exterior_components:Side mirrors}",{interior_components:Steering wheel},0.10638297872340426,1.0,0.10638297872340426,1.8076923076923077,5
+66,"{exterior_components:Wheels,exterior_components:Headlights,exterior_components:Bumpers}",{interior_components:Steering wheel},0.14893617021276595,1.0,0.14893617021276595,1.8076923076923077,7
+56,"{interior_components:Dashboard,interior_components:Door handles,exterior_components:Wheels}",{interior_components:Steering wheel},0.1276595744680851,1.0,0.1276595744680851,1.8076923076923077,6
+53,"{interior_components:Dashboard,interior_components:Door handles,exterior_components:Headlights}",{interior_components:Steering wheel},0.10638297872340426,1.0,0.10638297872340426,1.8076923076923077,5
+116,"{interior_components:Dashboard,exterior_components:Wheels,exterior_components:Headlights,exterior_components:Side mirrors}",{interior_components:Steering wheel},0.14893617021276595,1.0,0.14893617021276595,1.8076923076923077,7
+124,"{interior_components:Dashboard,interior_components:Door handles,exterior_components:Wheels,exterior_components:Headlights,exterior_components:Side mirrors}",{interior_components:Steering wheel},0.10638297872340426,1.0,0.10638297872340426,1.8076923076923077,5
+97,"{interior_components:Dashboard,interior_components:Door handles,exterior_components:Headlights,exterior_components:Side mirrors}",{interior_components:Steering wheel},0.10638297872340426,1.0,0.10638297872340426,1.8076923076923077,5
+63,"{exterior_components:Grilles,exterior_components:Wheels,exterior_components:Bumpers}",{interior_components:Steering wheel},0.10638297872340426,1.0,0.10638297872340426,1.8076923076923077,5
+67,"{interior_components:Centre compartment,exterior_components:Grilles,exterior_components:Side mirrors}",{exterior_components:Headlights},0.10638297872340426,1.0,0.10638297872340426,1.7407407407407407,5
+85,"{interior_components:Centre compartment,exterior_components:Grilles,exterior_components:Wheels}",{exterior_components:Headlights},0.14893617021276595,1.0,0.14893617021276595,1.7407407407407407,7
+68,"{interior_components:Centre compartment,interior_components:Dashboard,exterior_components:Side mirrors}",{exterior_components:Headlights},0.1276595744680851,1.0,0.1276595744680851,1.7407407407407407,6
+70,"{interior_components:Centre compartment,exterior_components:Wheels,exterior_components:Side mirrors}",{exterior_components:Headlights},0.1276595744680851,1.0,0.1276595744680851,1.7407407407407407,6
+45,"{interior_components:Door handles,exterior_components:Wheels,exterior_components:Side mirrors}",{exterior_components:Headlights},0.14893617021276595,1.0,0.14893617021276595,1.7407407407407407,7
+24,"{interior_components:Centre compartment,exterior_components:Side mirrors}",{exterior_components:Headlights},0.1702127659574468,1.0,0.1702127659574468,1.7407407407407407,8
+42,"{interior_components:Dashboard,interior_components:Door handles,exterior_components:Side mirrors}",{exterior_components:Headlights},0.10638297872340426,1.0,0.10638297872340426,1.7407407407407407,5
+37,"{interior_components:Steering wheel,interior_components:Door handles,exterior_components:Side mirrors}",{exterior_components:Headlights},0.10638297872340426,1.0,0.10638297872340426,1.7407407407407407,5
+83,"{interior_components:Centre compartment,interior_components:Steering wheel,exterior_components:Grilles}",{exterior_components:Headlights},0.10638297872340426,1.0,0.10638297872340426,1.7407407407407407,5
+118,"{interior_components:Centre compartment,interior_components:Steering wheel,exterior_components:Grilles,exterior_components:Wheels}",{exterior_components:Headlights},0.10638297872340426,1.0,0.10638297872340426,1.7407407407407407,5
+96,"{interior_components:Steering wheel,interior_components:Dashboard,interior_components:Door handles,exterior_components:Side mirrors}",{exterior_components:Headlights},0.10638297872340426,1.0,0.10638297872340426,1.7407407407407407,5
+100,"{interior_components:Steering wheel,interior_components:Door handles,exterior_components:Wheels,exterior_components:Side mirrors}",{exterior_components:Headlights},0.10638297872340426,1.0,0.10638297872340426,1.7407407407407407,5
+7,"{interior_components:Door handles,exterior_components:Side mirrors}",{exterior_components:Headlights},0.14893617021276595,1.0,0.14893617021276595,1.7407407407407407,7
+123,"{interior_components:Steering wheel,interior_components:Dashboard,interior_components:Door handles,exterior_components:Wheels,exterior_components:Side mirrors}",{exterior_components:Headlights},0.10638297872340426,1.0,0.10638297872340426,1.7407407407407407,5
+106,"{interior_components:Dashboard,interior_components:Door handles,exterior_components:Wheels,exterior_components:Side mirrors}",{exterior_components:Headlights},0.10638297872340426,1.0,0.10638297872340426,1.7407407407407407,5
+21,"{exterior_components:Headlights,exterior_components:Bumpers}",{interior_components:Steering wheel},0.14893617021276595,0.875,0.1702127659574468,1.5817307692307692,7
+93,"{interior_components:Dashboard,exterior_components:Grilles,exterior_components:Wheels}",{interior_components:Steering wheel},0.14893617021276595,0.875,0.1702127659574468,1.5817307692307692,7
+12,"{interior_components:Dashboard,interior_components:Door handles}",{interior_components:Steering wheel},0.1276595744680851,0.8571428571428571,0.14893617021276595,1.5494505494505495,6
+65,"{interior_components:Steering wheel,exterior_components:Wheels,exterior_components:Bumpers}",{exterior_components:Headlights},0.14893617021276595,0.875,0.1702127659574468,1.5231481481481481,7
+25,"{exterior_components:Grilles,exterior_components:Side mirrors}",{exterior_components:Headlights},0.14893617021276595,0.875,0.1702127659574468,1.5231481481481481,7
+71,"{interior_components:Steering wheel,exterior_components:Grilles,exterior_components:Side mirrors}",{interior_components:Dashboard},0.10638297872340426,1.0,0.10638297872340426,1.5161290322580645,5
+95,"{interior_components:Steering wheel,interior_components:Door handles,exterior_components:Headlights,exterior_components:Side mirrors}",{interior_components:Dashboard},0.10638297872340426,1.0,0.10638297872340426,1.5161290322580645,5
+102,"{interior_components:Steering wheel,interior_components:Door handles,exterior_components:Wheels,exterior_components:Side mirrors}",{interior_components:Dashboard},0.10638297872340426,1.0,0.10638297872340426,1.5161290322580645,5
+81,"{interior_components:Steering wheel,exterior_components:Wheels,exterior_components:Side mirrors}",{interior_components:Dashboard},0.19148936170212766,1.0,0.19148936170212766,1.5161290322580645,9
+59,"{exterior_components:Grilles,exterior_components:Side mirrors,exterior_components:Bumpers}",{interior_components:Dashboard},0.10638297872340426,1.0,0.10638297872340426,1.5161290322580645,5
+115,"{interior_components:Steering wheel,exterior_components:Wheels,exterior_components:Headlights,exterior_components:Side mirrors}",{interior_components:Dashboard},0.14893617021276595,1.0,0.14893617021276595,1.5161290322580645,7
+78,"{interior_components:Steering wheel,exterior_components:Headlights,exterior_components:Side mirrors}",{interior_components:Dashboard},0.14893617021276595,1.0,0.14893617021276595,1.5161290322580645,7
+112,"{interior_components:Steering wheel,exterior_components:Grilles,exterior_components:Wheels,exterior_components:Side mirrors}",{interior_components:Dashboard},0.10638297872340426,1.0,0.10638297872340426,1.5161290322580645,5
+19,"{exterior_components:Side mirrors,exterior_components:Bumpers}",{interior_components:Dashboard},0.10638297872340426,1.0,0.10638297872340426,1.5161290322580645,5
+27,"{interior_components:Steering wheel,exterior_components:Side mirrors}",{interior_components:Dashboard},0.19148936170212766,1.0,0.19148936170212766,1.5161290322580645,9
+38,"{interior_components:Steering wheel,interior_components:Door handles,exterior_components:Side mirrors}",{interior_components:Dashboard},0.10638297872340426,1.0,0.10638297872340426,1.5161290322580645,5
+122,"{interior_components:Steering wheel,interior_components:Door handles,exterior_components:Wheels,exterior_components:Headlights,exterior_components:Side mirrors}",{interior_components:Dashboard},0.10638297872340426,1.0,0.10638297872340426,1.5161290322580645,5
+89,"{interior_components:Centre compartment,interior_components:Dashboard,exterior_components:Wheels}",{interior_components:Steering wheel},0.10638297872340426,0.8333333333333334,0.1276595744680851,1.5064102564102566,5
+120,"{interior_components:Dashboard,exterior_components:Grilles,exterior_components:Wheels,exterior_components:Headlights}",{interior_components:Steering wheel},0.10638297872340426,0.8333333333333334,0.1276595744680851,1.5064102564102566,5
+49,"{interior_components:Centre compartment,interior_components:Door handles,exterior_components:Wheels}",{interior_components:Steering wheel},0.10638297872340426,0.8333333333333334,0.1276595744680851,1.5064102564102566,5
+73,"{exterior_components:Grilles,exterior_components:Wheels,exterior_components:Side mirrors}",{interior_components:Steering wheel},0.10638297872340426,0.8333333333333334,0.1276595744680851,1.5064102564102566,5
+75,"{interior_components:Dashboard,exterior_components:Grilles,exterior_components:Side mirrors}",{exterior_components:Headlights},0.1276595744680851,0.8571428571428571,0.14893617021276595,1.492063492063492,6
+14,"{interior_components:Door handles,exterior_components:Wheels}",{interior_components:Steering wheel},0.19148936170212766,0.8181818181818182,0.23404255319148934,1.4790209790209792,9
+34,"{exterior_components:Grilles,exterior_components:Wheels}",{exterior_components:Headlights},0.23404255319148937,0.8461538461538461,0.2765957446808511,1.4729344729344729,11
+58,"{interior_components:Dashboard,interior_components:Door handles,exterior_components:Wheels}",{exterior_components:Headlights},0.10638297872340426,0.8333333333333334,0.1276595744680851,1.4506172839506175,5
+52,"{interior_components:Steering wheel,interior_components:Dashboard,interior_components:Door handles}",{exterior_components:Headlights},0.10638297872340426,0.8333333333333334,0.1276595744680851,1.4506172839506175,5
+76,"{exterior_components:Grilles,exterior_components:Wheels,exterior_components:Side mirrors}",{exterior_components:Headlights},0.10638297872340426,0.8333333333333334,0.1276595744680851,1.4506172839506175,5
+30,"{exterior_components:Wheels,exterior_components:Side mirrors}",{exterior_components:Headlights},0.2127659574468085,0.8333333333333334,0.2553191489361702,1.4506172839506175,10
+109,"{interior_components:Steering wheel,interior_components:Dashboard,interior_components:Door handles,exterior_components:Wheels}",{exterior_components:Headlights},0.10638297872340426,0.8333333333333334,0.1276595744680851,1.4506172839506175,5
+51,"{interior_components:Centre compartment,interior_components:Door handles,exterior_components:Wheels}",{exterior_components:Headlights},0.10638297872340426,0.8333333333333334,0.1276595744680851,1.4506172839506175,5
+11,"{interior_components:Door handles,exterior_components:Headlights}",{interior_components:Steering wheel},0.1702127659574468,0.8,0.21276595744680848,1.4461538461538461,8
+22,"{exterior_components:Wheels,exterior_components:Bumpers}",{interior_components:Steering wheel},0.1702127659574468,0.8,0.21276595744680848,1.4461538461538461,8
+16,"{interior_components:Door handles,exterior_components:Wheels}",{exterior_components:Headlights},0.19148936170212766,0.8181818181818182,0.23404255319148934,1.4242424242424245,9
+46,"{interior_components:Dashboard,interior_components:Door handles,exterior_components:Side mirrors}",{exterior_components:Wheels},0.10638297872340426,1.0,0.10638297872340426,1.4242424242424243,5
+117,"{interior_components:Centre compartment,interior_components:Steering wheel,exterior_components:Grilles,exterior_components:Headlights}",{exterior_components:Wheels},0.10638297872340426,1.0,0.10638297872340426,1.4242424242424243,5
+119,"{interior_components:Steering wheel,interior_components:Dashboard,exterior_components:Grilles,exterior_components:Headlights}",{exterior_components:Wheels},0.10638297872340426,1.0,0.10638297872340426,1.4242424242424243,5
+108,"{interior_components:Steering wheel,interior_components:Dashboard,interior_components:Door handles,exterior_components:Headlights}",{exterior_components:Wheels},0.10638297872340426,1.0,0.10638297872340426,1.4242424242424243,5
+55,"{interior_components:Steering wheel,interior_components:Dashboard,interior_components:Door handles}",{exterior_components:Wheels},0.1276595744680851,1.0,0.1276595744680851,1.4242424242424243,6
+105,"{interior_components:Dashboard,interior_components:Door handles,exterior_components:Headlights,exterior_components:Side mirrors}",{exterior_components:Wheels},0.10638297872340426,1.0,0.10638297872340426,1.4242424242424243,5
+8,"{interior_components:Door handles,exterior_components:Side mirrors}",{exterior_components:Wheels},0.14893617021276595,1.0,0.14893617021276595,1.4242424242424243,7
+114,"{interior_components:Steering wheel,interior_components:Dashboard,exterior_components:Headlights,exterior_components:Side mirrors}",{exterior_components:Wheels},0.14893617021276595,1.0,0.14893617021276595,1.4242424242424243,7
+28,"{interior_components:Steering wheel,exterior_components:Side mirrors}",{exterior_components:Wheels},0.19148936170212766,1.0,0.19148936170212766,1.4242424242424243,9
+101,"{interior_components:Steering wheel,interior_components:Dashboard,interior_components:Door handles,exterior_components:Side mirrors}",{exterior_components:Wheels},0.10638297872340426,1.0,0.10638297872340426,1.4242424242424243,5
+99,"{interior_components:Steering wheel,interior_components:Door handles,exterior_components:Headlights,exterior_components:Side mirrors}",{exterior_components:Wheels},0.10638297872340426,1.0,0.10638297872340426,1.4242424242424243,5
+57,"{interior_components:Dashboard,interior_components:Door handles,exterior_components:Headlights}",{exterior_components:Wheels},0.10638297872340426,1.0,0.10638297872340426,1.4242424242424243,5
+50,"{interior_components:Centre compartment,interior_components:Door handles,exterior_components:Headlights}",{exterior_components:Wheels},0.10638297872340426,1.0,0.10638297872340426,1.4242424242424243,5
+94,"{interior_components:Steering wheel,interior_components:Dashboard,exterior_components:Headlights}",{exterior_components:Wheels},0.2127659574468085,1.0,0.2127659574468085,1.4242424242424243,10
+44,"{interior_components:Door handles,exterior_components:Headlights,exterior_components:Side mirrors}",{exterior_components:Wheels},0.14893617021276595,1.0,0.14893617021276595,1.4242424242424243,7
+90,"{interior_components:Steering wheel,exterior_components:Grilles,exterior_components:Headlights}",{exterior_components:Wheels},0.1702127659574468,1.0,0.1702127659574468,1.4242424242424243,8
+64,"{interior_components:Steering wheel,exterior_components:Headlights,exterior_components:Bumpers}",{exterior_components:Wheels},0.14893617021276595,1.0,0.14893617021276595,1.4242424242424243,7
+72,"{interior_components:Steering wheel,exterior_components:Grilles,exterior_components:Side mirrors}",{exterior_components:Wheels},0.10638297872340426,1.0,0.10638297872340426,1.4242424242424243,5
+111,"{interior_components:Steering wheel,interior_components:Dashboard,exterior_components:Grilles,exterior_components:Side mirrors}",{exterior_components:Wheels},0.10638297872340426,1.0,0.10638297872340426,1.4242424242424243,5
+48,"{interior_components:Centre compartment,interior_components:Steering wheel,interior_components:Door handles}",{exterior_components:Wheels},0.10638297872340426,1.0,0.10638297872340426,1.4242424242424243,5
+41,"{interior_components:Steering wheel,interior_components:Door handles,exterior_components:Side mirrors}",{exterior_components:Wheels},0.10638297872340426,1.0,0.10638297872340426,1.4242424242424243,5
+79,"{interior_components:Steering wheel,exterior_components:Headlights,exterior_components:Side mirrors}",{exterior_components:Wheels},0.14893617021276595,1.0,0.14893617021276595,1.4242424242424243,7
+84,"{interior_components:Centre compartment,interior_components:Steering wheel,exterior_components:Grilles}",{exterior_components:Wheels},0.10638297872340426,1.0,0.10638297872340426,1.4242424242424243,5
+121,"{interior_components:Steering wheel,interior_components:Dashboard,interior_components:Door handles,exterior_components:Headlights,exterior_components:Side mirrors}",{exterior_components:Wheels},0.10638297872340426,1.0,0.10638297872340426,1.4242424242424243,5
+80,"{interior_components:Steering wheel,interior_components:Dashboard,exterior_components:Side mirrors}",{exterior_components:Wheels},0.19148936170212766,1.0,0.19148936170212766,1.4242424242424243,9
+86,"{interior_components:Centre compartment,interior_components:Steering wheel,exterior_components:Headlights}",{exterior_components:Wheels},0.1702127659574468,1.0,0.1702127659574468,1.4242424242424243,8
+10,"{interior_components:Steering wheel,interior_components:Door handles}",{exterior_components:Headlights},0.1702127659574468,0.8,0.21276595744680848,1.3925925925925926,8
+87,"{interior_components:Centre compartment,interior_components:Steering wheel,exterior_components:Wheels}",{exterior_components:Headlights},0.1702127659574468,0.8,0.21276595744680848,1.3925925925925926,8
+2,{exterior_components:Side mirrors},{exterior_components:Headlights},0.2553191489361702,0.8,0.3191489361702127,1.3925925925925926,12
+91,"{interior_components:Steering wheel,exterior_components:Grilles,exterior_components:Wheels}",{exterior_components:Headlights},0.1702127659574468,0.8,0.21276595744680848,1.3925925925925926,8
+20,"{exterior_components:Grilles,exterior_components:Bumpers}",{interior_components:Dashboard},0.1702127659574468,0.8888888888888888,0.19148936170212766,1.3476702508960574,8
+35,"{interior_components:Steering wheel,exterior_components:Headlights}",{exterior_components:Wheels},0.3191489361702128,0.9375,0.3404255319148936,1.3352272727272727,15
+26,"{exterior_components:Grilles,exterior_components:Side mirrors}",{interior_components:Dashboard},0.14893617021276595,0.875,0.1702127659574468,1.3266129032258065,7
+74,"{exterior_components:Grilles,exterior_components:Headlights,exterior_components:Side mirrors}",{interior_components:Dashboard},0.1276595744680851,0.8571428571428571,0.14893617021276595,1.2995391705069124,6
+31,"{interior_components:Centre compartment,interior_components:Steering wheel}",{exterior_components:Wheels},0.2127659574468085,0.9090909090909091,0.23404255319148937,1.2947658402203857,10
+33,"{interior_components:Steering wheel,exterior_components:Grilles}",{exterior_components:Wheels},0.2127659574468085,0.9090909090909091,0.23404255319148937,1.2947658402203857,10
+15,"{interior_components:Door handles,exterior_components:Headlights}",{exterior_components:Wheels},0.19148936170212766,0.9,0.2127659574468085,1.281818181818182,9
+13,"{interior_components:Steering wheel,interior_components:Door handles}",{exterior_components:Wheels},0.19148936170212766,0.9,0.2127659574468085,1.281818181818182,9
+77,"{exterior_components:Grilles,exterior_components:Wheels,exterior_components:Side mirrors}",{interior_components:Dashboard},0.10638297872340426,0.8333333333333334,0.1276595744680851,1.263440860215054,5
+61,"{interior_components:Steering wheel,exterior_components:Grilles,exterior_components:Bumpers}",{interior_components:Dashboard},0.10638297872340426,0.8333333333333334,0.1276595744680851,1.263440860215054,5
+23,"{exterior_components:Headlights,exterior_components:Bumpers}",{exterior_components:Wheels},0.14893617021276595,0.875,0.1702127659574468,1.246212121212121,7
+92,"{interior_components:Steering wheel,interior_components:Dashboard,exterior_components:Grilles}",{exterior_components:Wheels},0.14893617021276595,0.875,0.1702127659574468,1.246212121212121,7
+54,"{interior_components:Steering wheel,interior_components:Door handles,exterior_components:Headlights}",{exterior_components:Wheels},0.14893617021276595,0.875,0.1702127659574468,1.246212121212121,7
+36,"{interior_components:Steering wheel,interior_components:Dashboard}",{exterior_components:Wheels},0.2978723404255319,0.875,0.3404255319148936,1.246212121212121,14
+9,"{interior_components:Centre compartment,interior_components:Door handles}",{exterior_components:Wheels},0.1276595744680851,0.8571428571428571,0.14893617021276595,1.2207792207792207,6
+17,"{interior_components:Dashboard,interior_components:Door handles}",{exterior_components:Wheels},0.1276595744680851,0.8571428571428571,0.14893617021276595,1.2207792207792207,6
+3,{exterior_components:Side mirrors},{interior_components:Dashboard},0.2553191489361702,0.8,0.3191489361702127,1.2129032258064516,12
+5,{interior_components:Steering wheel},{exterior_components:Wheels},0.46808510638297873,0.8461538461538461,0.5531914893617021,1.205128205128205,22
+32,"{interior_components:Centre compartment,exterior_components:Headlights}",{exterior_components:Wheels},0.23404255319148937,0.8461538461538461,0.2765957446808511,1.205128205128205,11
+1,{interior_components:Door handles},{exterior_components:Wheels},0.23404255319148937,0.8461538461538461,0.2765957446808511,1.205128205128205,11
+88,"{interior_components:Centre compartment,interior_components:Steering wheel,interior_components:Dashboard}",{exterior_components:Wheels},0.10638297872340426,0.8333333333333334,0.1276595744680851,1.186868686868687,5
+62,"{interior_components:Steering wheel,exterior_components:Grilles,exterior_components:Bumpers}",{exterior_components:Wheels},0.10638297872340426,0.8333333333333334,0.1276595744680851,1.186868686868687,5
+29,"{exterior_components:Headlights,exterior_components:Side mirrors}",{exterior_components:Wheels},0.2127659574468085,0.8333333333333334,0.2553191489361702,1.186868686868687,10
+6,{exterior_components:Headlights},{exterior_components:Wheels},0.46808510638297873,0.8148148148148148,0.574468085106383,1.1604938271604939,22
+4,{exterior_components:Side mirrors},{exterior_components:Wheels},0.2553191489361702,0.8,0.3191489361702127,1.1393939393939394,12

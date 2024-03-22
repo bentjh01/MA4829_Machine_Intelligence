@@ -12,8 +12,10 @@ This project analyzes survey data to understand car buyer preferences in Singapo
 
 This data can inform product design, customization strategies, and marketing efforts to increase customer satisfaction, sales, and market competitiveness.
 
-## Requirements
+## Tools
 
 - Numpy
 - Seaborne
 - Pandas
+- Scikit Learn
+- Arules
